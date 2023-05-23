@@ -13,7 +13,6 @@
  * Entrada: 6 145 15.55 
  * Saída: NUMBER = 6 SALARY = U$ 2254.75 */
 
-package List1;
 import java.util.Scanner;
 import java.util.Locale;
 
